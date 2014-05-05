@@ -1,9 +1,9 @@
 ---
-layout: default
-title: mycourtpro.github.io
+layout: site
+title: MeleLab
 ---
 
 ## welcome
 
-This is the MyCourt developer website.
+This is Paolo Mele's research group webpage
 

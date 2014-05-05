@@ -13,7 +13,7 @@ sass_dir = '../_scss'
 images_dir = '../images'
 javascripts_dir = '../js'
 
-add_import_path 'vendor/bootstrap/stylesheets'
+#add_import_path 'vendor/bootstrap/stylesheets'
 add_import_path 'vendor/font-awesome/stylesheets'
 
 # You can select your preferred output style here (can be overridden via the command line):
