@@ -7,19 +7,72 @@ $FontAwesomePath: "/fonts" !default;
 @import "font-awesome";
 
 body {
+  font-size: 16px;
 }
 
 .header {
+  background-color: red;
+}
+.header-content {
   width: 90%;
   margin: auto;
 }
 .title {
-  font-size: 200%;
+  padding-top: 0.5em;
+  font-size: 280%;
   font-weight: bold;
+  color: white;
+  margin-bottom: 0.1em;
+}
+.subtitle {
+  font-size: 140%;
+  font-weight: bold;
+  color: white;
+  opacity: 0.9;
 }
 .menu {
-  float: right;
+  //float: right;
+  padding-bottom: 0.5em;
+  margin-top: 1.4em;
+  margin-bottom: 0.7em;
   .item {
-    width: 110px;
+    cursor: pointer;
+    margin-right: 0.7em;
+    color: white;
+    font-weight: bold;
+    &:hover {
+      opacity: 0.7;
+    }
   }
 }
+.content {
+  width: 90%;
+  margin: auto;
+}
+.footer {
+  margin-top: 1em;
+  padding-top: 1em;
+  background-color: lightgrey;
+  min-height: 7em;
+}
+.footer-content {
+  width: 90%;
+  margin: auto;
+  font-size: 77%;
+}
+
+h1 {
+  font-size: 200%;
+  font-weight: bold;
+  margin-bottom: 1em;
+}
+h2 {
+  font-size: 150%;
+  font-weight: bold;
+  margin-bottom: 1em;
+}
+
+p {
+  margin-bottom: 1em;
+}
+
