@@ -13,6 +13,8 @@ module Jekyll
 
     def generate(site)
 
+      return # disabled for now
+
       libs = Dir['_js/*.js']
       mtime = libs.collect { |e| File.new(e).mtime }.max
 

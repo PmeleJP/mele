@@ -7,6 +7,19 @@ $FontAwesomePath: "/fonts" !default;
 @import "font-awesome";
 
 body {
-  font-size: 200%;
 }
 
+.header {
+  width: 90%;
+  margin: auto;
+}
+.title {
+  font-size: 200%;
+  font-weight: bold;
+}
+.menu {
+  float: right;
+  .item {
+    width: 110px;
+  }
+}

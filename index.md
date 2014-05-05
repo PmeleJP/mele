@@ -1,6 +1,6 @@
 ---
 layout: site
-title: MeleLab
+title: home
 ---
 
 ## welcome

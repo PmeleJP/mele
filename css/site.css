@@ -2358,7 +2358,23 @@ a .icon-rotate-90:before, a .icon-rotate-180:before, a .icon-rotate-270:before, 
   content: "\f18b";
 }
 
-/* line 9, ../_scss/site.scss */
-body {
+/* line 12, ../_scss/site.scss */
+.header {
+  width: 90%;
+  margin: auto;
+}
+
+/* line 16, ../_scss/site.scss */
+.title {
   font-size: 200%;
+  font-weight: bold;
+}
+
+/* line 20, ../_scss/site.scss */
+.menu {
+  float: right;
+}
+/* line 22, ../_scss/site.scss */
+.menu .item {
+  width: 110px;
 }

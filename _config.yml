@@ -1,6 +1,6 @@
 
 # github's jekyll override
-safe: true
+#safe: true
 lsi: false
 pygments: true
 
