@@ -2392,30 +2392,57 @@ body {
 }
 
 /* line 33, ../_scss/site.scss */
+.subtitle-uni {
+  margin-top: 3px;
+  opacity: 0.9;
+}
+/* line 37, ../_scss/site.scss */
+.subtitle-uni a {
+  text-decoration: none;
+}
+/* line 40, ../_scss/site.scss */
+.subtitle-uni a:link {
+  color: white;
+}
+/* line 43, ../_scss/site.scss */
+.subtitle-uni a:visited {
+  color: white;
+}
+/* line 46, ../_scss/site.scss */
+.subtitle-uni a:hover {
+  color: white;
+  opacity: 0.7;
+}
+/* line 50, ../_scss/site.scss */
+.subtitle-uni a:active {
+  color: white;
+}
+
+/* line 54, ../_scss/site.scss */
 .menu {
   padding-bottom: 0.5em;
   margin-top: 1.4em;
   margin-bottom: 0.7em;
 }
-/* line 38, ../_scss/site.scss */
+/* line 59, ../_scss/site.scss */
 .menu .item {
   cursor: pointer;
   margin-right: 0.7em;
   color: white;
   font-weight: bold;
 }
-/* line 43, ../_scss/site.scss */
+/* line 64, ../_scss/site.scss */
 .menu .item:hover {
   opacity: 0.7;
 }
 
-/* line 48, ../_scss/site.scss */
+/* line 69, ../_scss/site.scss */
 .content {
   width: 90%;
   margin: auto;
 }
 
-/* line 52, ../_scss/site.scss */
+/* line 73, ../_scss/site.scss */
 .footer {
   margin-top: 1em;
   padding-top: 1em;
@@ -2423,28 +2450,28 @@ body {
   min-height: 7em;
 }
 
-/* line 58, ../_scss/site.scss */
+/* line 79, ../_scss/site.scss */
 .footer-content {
   width: 90%;
   margin: auto;
   font-size: 77%;
 }
 
-/* line 64, ../_scss/site.scss */
+/* line 85, ../_scss/site.scss */
 h1 {
   font-size: 200%;
   font-weight: bold;
   margin-bottom: 1em;
 }
 
-/* line 69, ../_scss/site.scss */
+/* line 90, ../_scss/site.scss */
 h2 {
   font-size: 150%;
   font-weight: bold;
   margin-bottom: 1em;
 }
 
-/* line 75, ../_scss/site.scss */
+/* line 96, ../_scss/site.scss */
 p {
   margin-bottom: 1em;
 }
