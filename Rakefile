@@ -74,3 +74,10 @@ task :kss do
   sh('find . -name .sass-cache | xargs rm -fR')
 end
 
+
+# upload to http://mele.lambda.io
+task :u => :build do
+
+  sh('time rsync -azvhe ssh _site/* lin:www/mele/')
+end
+
