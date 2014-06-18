@@ -22,7 +22,7 @@
       <div class="menu">
         <span class="item" data-href="/">home</span>
         <span class="item" data-href="/resume.html">resume</span>
-        <span class="item" data-href="/publications.html">resume</span>
+        <span class="item" data-href="/publications.html">publications</span>
         <span class="item" data-href="/presentations.html">presentations</span>
         <span class="item" data-href="/group.html">research group</span>
         <span class="item" data-href="/interests.html">research interests</span>
@@ -41,6 +41,12 @@
       &copy; 2013-2014 Paolo Mele
     </div>
   </div>
+
+  <script>
+    $('.menu .item').on('click', function(ev) {
+      window.location.href = $(ev.target).attr('data-href');
+    });
+  </script>
 
 </body>
 </html>
