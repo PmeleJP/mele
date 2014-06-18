@@ -6,9 +6,34 @@ $FontAwesomePath: "/fonts" !default;
 //
 @import "font-awesome";
 
+// Using the footer technique from Chris Coyer
+
+* {
+  margin: 0;
+  box-sizing: border-box;
+}
+
+html, body {
+  height: 100%;
+}
+
 body {
   font-family: Helvetica;
   font-size: 16px;
+}
+
+$footer-height: 140px;
+
+.page-wrap {
+  min-height: 100%;
+  margin-bottom: -$footer-height;
+}
+.page-wrap:after {
+  content: "";
+  display: block;
+}
+.footer, .page-wrap:after {
+  height: $footer-height;
 }
 
 .header {
@@ -72,12 +97,10 @@ body {
   margin: auto;
 }
 .footer {
-  margin-top: 1em;
-  padding-top: 1em;
   background-color: lightgrey;
-  min-height: 7em;
 }
 .footer-content {
+  padding-top: 1em;
   width: 90%;
   margin: auto;
   font-size: 77%;
