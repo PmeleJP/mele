@@ -2453,30 +2453,30 @@ body {
   margin-top: 1.4em;
   margin-bottom: 0.7em;
 }
-/* line 85, ../_scss/site.scss */
-.menu .item {
-  cursor: pointer;
+/* line 84, ../_scss/site.scss */
+.menu a {
   margin-right: 0.7em;
   color: white;
   font-weight: bold;
+  text-decoration: none;
 }
-/* line 90, ../_scss/site.scss */
-.menu .item:hover {
+/* line 89, ../_scss/site.scss */
+.menu a:hover {
   opacity: 0.7;
 }
 
-/* line 95, ../_scss/site.scss */
+/* line 94, ../_scss/site.scss */
 .content {
   width: 90%;
   margin: auto;
 }
 
-/* line 99, ../_scss/site.scss */
+/* line 98, ../_scss/site.scss */
 .footer {
   background-color: lightgrey;
 }
 
-/* line 102, ../_scss/site.scss */
+/* line 101, ../_scss/site.scss */
 .footer-content {
   padding-top: 1em;
   width: 90%;
@@ -2484,21 +2484,21 @@ body {
   font-size: 77%;
 }
 
-/* line 109, ../_scss/site.scss */
+/* line 108, ../_scss/site.scss */
 h1 {
   font-size: 200%;
   font-weight: bold;
   margin-bottom: 1em;
 }
 
-/* line 114, ../_scss/site.scss */
+/* line 113, ../_scss/site.scss */
 h2 {
   font-size: 150%;
   font-weight: bold;
   margin-bottom: 1em;
 }
 
-/* line 120, ../_scss/site.scss */
+/* line 119, ../_scss/site.scss */
 p {
   margin-bottom: 1em;
 }
