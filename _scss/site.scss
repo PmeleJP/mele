@@ -113,10 +113,28 @@ h1 {
 h2 {
   font-size: 150%;
   font-weight: bold;
+  margin-top: 1em;
   margin-bottom: 1em;
+}
+
+strong {
+  font-weight: bold;
 }
 
 p {
   margin-bottom: 1em;
+}
+ul {
+  margin-bottom: 1em;
+}
+table {
+  margin-bottom: 1em;
+}
+td {
+  padding-right: 2em;
+}
+
+.page-resume {
+  // add styles specific to resume.html here
 }
 

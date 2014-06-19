@@ -2495,10 +2495,31 @@ h1 {
 h2 {
   font-size: 150%;
   font-weight: bold;
+  margin-top: 1em;
   margin-bottom: 1em;
 }
 
-/* line 119, ../_scss/site.scss */
+/* line 120, ../_scss/site.scss */
+strong {
+  font-weight: bold;
+}
+
+/* line 124, ../_scss/site.scss */
 p {
   margin-bottom: 1em;
+}
+
+/* line 127, ../_scss/site.scss */
+ul {
+  margin-bottom: 1em;
+}
+
+/* line 130, ../_scss/site.scss */
+table {
+  margin-bottom: 1em;
+}
+
+/* line 133, ../_scss/site.scss */
+td {
+  padding-right: 2em;
 }
