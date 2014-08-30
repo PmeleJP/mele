@@ -86,3 +86,58 @@ JSPS Post-doctoral fellow
 
 Research & development of bulk superconducting  oxides
 
+
+## <a id="education" />education
+
+**Ph.D. in Chemical Sciences**
+
+| | |
+| --- | --- |
+| Date | February 14, 2000 |
+| Place | University of Genova, Italy |
+| Dissertation title | “Study of growth mechanisms of monocrystalline systems and polycrystalline textured materials” |
+| Advisors | Prof. G.A. Costa, Prof. G.L. Olcese. |
+
+
+**Laurea in Chemistry**
+
+| | |
+| --- | --- |
+| Date | June 19, 1996 |
+| Place | University of Genova, Italy |
+| Dissertation title | “Study of the texture process of YBCO ceramic superconductor” |
+| Advisors | Prof. G.A. Costa |
+
+"Laurea" in Italian educational system is a 5 year undergraduate
+degree, equivalent to a Bachelor's degree + Master's degree
+
+__Language skills__
+
+| | |
+| --- | --- |
+| Italian | mother tongue |
+| English | TOEIC 890/1000 |
+| Japanese | JLPT level 3 |
+| French | Basic level (studied at primary school) |
+
+
+## <a id="research_experience" />research experience
+
+I have 17 years of research experience: 7 in Italy (including the 3 years of doctoral course studies) and 10 in Japan
+
+**Peer-reviewed activity**
+
+| | |
+| --- | --- |
+| Number of papers published | 69 |
+| Patents | 1 |
+
+**Conference presentations**
+
+| | |
+| --- | --- |
+| Total papers (posters+talks) presented | 150 |
+| Talks | 35 |
+| Invited talks | 7 |
+| Conferences attended | 85 |
+
