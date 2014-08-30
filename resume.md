@@ -20,7 +20,7 @@ Advanced nanostructured materials will play an important role in the current cha
 * [Research experience](#research_experience)
 
 
-## <a id="personal_data" />personal data
+## personal data
 
 | | |
 | --- | --- |
@@ -35,7 +35,7 @@ Advanced nanostructured materials will play an important role in the current cha
 I am currently a Tenure Track Lecturer at the institute of Sustainable Sciences and Development (ISSD) of Hiroshima University, Japan
 
 
-## <a id="contact_information" />contact information
+## contact information
 
 | | |
 | --- | --- |
@@ -48,7 +48,7 @@ I am currently a Tenure Track Lecturer at the institute of Sustainable Sciences 
 | Institute web | [http://www.hiroshima-u.ac.jp/rcsd/](http://www.hiroshima-u.ac.jp/rcsd/) |
 
 
-## <a id="experiences" />experiences
+## experiences
 
 **Since March 1, 2011 - present:** ISSD, Hiroshima University, Japan
 
@@ -87,7 +87,7 @@ JSPS Post-doctoral fellow
 Research & development of bulk superconducting  oxides
 
 
-## <a id="education" />education
+## education
 
 **Ph.D. in Chemical Sciences**
 
@@ -121,7 +121,7 @@ __Language skills__
 | French | Basic level (studied at primary school) |
 
 
-## <a id="research_experience" />research experience
+## research experience
 
 I have 17 years of research experience: 7 in Italy (including the 3 years of doctoral course studies) and 10 in Japan
 
