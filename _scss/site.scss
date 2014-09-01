@@ -134,7 +134,12 @@ td {
   padding-right: 2em;
 }
 
-.page-resume {
-  // add styles specific to resume.html here
+.page-resume { // resume.md
+
+  #personal_data + table {
+    //td:first-child {
+    //  font-weight: bold;
+    //}
+  }
 }
 
