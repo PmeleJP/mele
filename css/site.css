@@ -2488,10 +2488,11 @@ body {
 h1 {
   font-size: 200%;
   font-weight: bold;
+  margin-top: 1em;
   margin-bottom: 1em;
 }
 
-/* line 113, ../_scss/site.scss */
+/* line 114, ../_scss/site.scss */
 h2 {
   font-size: 150%;
   font-weight: bold;
@@ -2499,27 +2500,27 @@ h2 {
   margin-bottom: 1em;
 }
 
-/* line 120, ../_scss/site.scss */
+/* line 121, ../_scss/site.scss */
 strong {
   font-weight: bold;
 }
 
-/* line 124, ../_scss/site.scss */
+/* line 125, ../_scss/site.scss */
 p {
   margin-bottom: 1em;
 }
 
-/* line 127, ../_scss/site.scss */
+/* line 128, ../_scss/site.scss */
 ul {
   margin-bottom: 1em;
 }
 
-/* line 130, ../_scss/site.scss */
+/* line 131, ../_scss/site.scss */
 table {
   margin-bottom: 1em;
 }
 
-/* line 133, ../_scss/site.scss */
+/* line 134, ../_scss/site.scss */
 td {
   padding-right: 2em;
 }

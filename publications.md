@@ -38,7 +38,7 @@ Mikheenko, A. Crisan, Journal of Superconductivity and Novel Magnetism,
 
 (64) “Superconducting properties of iron chalcogenide thin films” –
 P.Mele, Science and Technology of Advanced Materials, 13 (2012) 054301
-(21pp) (*topical review*)
+(21pp) (**topical review**)
 
 (63) “Nanostructured epitaxial thin films of Fe-based superconductors
 with enhanced superconducting properties” - P. Mele, K. Matsumoto, H.
