@@ -2517,11 +2517,16 @@ ul {
 }
 
 /* line 132, ../_scss/site.scss */
+li {
+  margin-bottom: 0.2em;
+}
+
+/* line 135, ../_scss/site.scss */
 table {
   margin-bottom: 1em;
 }
 
-/* line 135, ../_scss/site.scss */
+/* line 138, ../_scss/site.scss */
 td {
   padding-right: 2em;
 }

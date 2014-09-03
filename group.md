@@ -9,12 +9,9 @@ title: group
 
 The research group is currently composed of 3 people:
 
-- Dr. Paolo Mele
-  Tenure track researcher
-- Dr. Shrikant Saini
-  Post-doc researcher
-- Hiroaki Honda
-  Graduate student (M1) - from Prof. Suzuki's laboratory
+- Dr. Paolo Mele, tenure track researcher
+- Dr. Shrikant Saini, post-doc researcher
+- Hiroaki Honda, graduate student (M1), from Prof. Suzuki's laboratory
 
 ## past members
 
