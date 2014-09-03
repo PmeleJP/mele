@@ -2513,14 +2513,15 @@ p {
 /* line 128, ../_scss/site.scss */
 ul {
   margin-bottom: 1em;
+  list-style: disc inside none;
 }
 
-/* line 131, ../_scss/site.scss */
+/* line 132, ../_scss/site.scss */
 table {
   margin-bottom: 1em;
 }
 
-/* line 134, ../_scss/site.scss */
+/* line 135, ../_scss/site.scss */
 td {
   padding-right: 2em;
 }
