@@ -13,7 +13,11 @@ task :serve do
   puts
   puts '  http://localhost:4000/'
   puts
-  sh('bundle exec jekyll serve --watch')
+  if RUBY_PLATFORM.match(/win/) then
+    sh('~/bin/jekyll serve --watch')
+  else
+    sh('bundle exec jekyll serve --watch')
+  end
 end
 
 desc "shortcut for 'rake serve'"
