@@ -1,4 +1,4 @@
-git pull---
+---
 layout: site
 title: home
 ---
