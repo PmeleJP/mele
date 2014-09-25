@@ -1,4 +1,4 @@
----
+git pull---
 layout: site
 title: home
 ---
@@ -13,4 +13,5 @@ We are studying advanced materials for energy transport and conversion, thermoel
 
 We like new people, please join!
 
-cambio
+[forse ce L`ho fatta!!!???]
+git diff
