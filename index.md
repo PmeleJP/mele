@@ -11,5 +11,3 @@ This is Paolo Mele's laboratory's website.
 
 We are studying advanced materials for energy transport and conversion, thermoelectrics and superconductors.
 
-[forse ce L`ho fatta!!!???]
-
