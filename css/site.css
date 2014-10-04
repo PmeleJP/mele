@@ -2389,21 +2389,22 @@ body {
 
 /* line 35, ../_scss/site.scss */
 .footer, .page-wrap:after {
+  margin-top: 1em;
   height: 140px;
 }
 
-/* line 39, ../_scss/site.scss */
+/* line 40, ../_scss/site.scss */
 .header {
   background-color: red;
 }
 
-/* line 42, ../_scss/site.scss */
+/* line 43, ../_scss/site.scss */
 .header-content {
   width: 90%;
   margin: auto;
 }
 
-/* line 46, ../_scss/site.scss */
+/* line 47, ../_scss/site.scss */
 .title {
   padding-top: 0.5em;
   font-size: 280%;
@@ -2412,7 +2413,7 @@ body {
   margin-bottom: 0.1em;
 }
 
-/* line 53, ../_scss/site.scss */
+/* line 54, ../_scss/site.scss */
 .subtitle {
   font-size: 140%;
   font-weight: bold;
@@ -2420,63 +2421,63 @@ body {
   opacity: 0.9;
 }
 
-/* line 59, ../_scss/site.scss */
+/* line 60, ../_scss/site.scss */
 .subtitle-uni {
   margin-top: 3px;
   opacity: 0.9;
 }
-/* line 63, ../_scss/site.scss */
+/* line 64, ../_scss/site.scss */
 .subtitle-uni a {
   text-decoration: none;
 }
-/* line 66, ../_scss/site.scss */
+/* line 67, ../_scss/site.scss */
 .subtitle-uni a:link {
   color: white;
 }
-/* line 69, ../_scss/site.scss */
+/* line 70, ../_scss/site.scss */
 .subtitle-uni a:visited {
   color: white;
 }
-/* line 72, ../_scss/site.scss */
+/* line 73, ../_scss/site.scss */
 .subtitle-uni a:hover {
   color: white;
   opacity: 0.7;
 }
-/* line 76, ../_scss/site.scss */
+/* line 77, ../_scss/site.scss */
 .subtitle-uni a:active {
   color: white;
 }
 
-/* line 80, ../_scss/site.scss */
+/* line 81, ../_scss/site.scss */
 .menu {
   padding-bottom: 0.5em;
   margin-top: 1.4em;
   margin-bottom: 0.7em;
 }
-/* line 84, ../_scss/site.scss */
+/* line 85, ../_scss/site.scss */
 .menu a {
   margin-right: 0.7em;
   color: white;
   font-weight: bold;
   text-decoration: none;
 }
-/* line 89, ../_scss/site.scss */
+/* line 90, ../_scss/site.scss */
 .menu a:hover {
   opacity: 0.7;
 }
 
-/* line 94, ../_scss/site.scss */
+/* line 95, ../_scss/site.scss */
 .content {
   width: 90%;
   margin: auto;
 }
 
-/* line 98, ../_scss/site.scss */
+/* line 99, ../_scss/site.scss */
 .footer {
   background-color: lightgrey;
 }
 
-/* line 101, ../_scss/site.scss */
+/* line 102, ../_scss/site.scss */
 .footer-content {
   padding-top: 1em;
   width: 90%;
@@ -2484,7 +2485,7 @@ body {
   font-size: 77%;
 }
 
-/* line 108, ../_scss/site.scss */
+/* line 109, ../_scss/site.scss */
 h1 {
   font-size: 200%;
   font-weight: bold;
@@ -2492,7 +2493,7 @@ h1 {
   margin-bottom: 1em;
 }
 
-/* line 114, ../_scss/site.scss */
+/* line 115, ../_scss/site.scss */
 h2 {
   font-size: 150%;
   font-weight: bold;
@@ -2500,33 +2501,33 @@ h2 {
   margin-bottom: 1em;
 }
 
-/* line 121, ../_scss/site.scss */
+/* line 122, ../_scss/site.scss */
 strong {
   font-weight: bold;
 }
 
-/* line 125, ../_scss/site.scss */
+/* line 126, ../_scss/site.scss */
 p {
   margin-bottom: 1em;
 }
 
-/* line 128, ../_scss/site.scss */
+/* line 129, ../_scss/site.scss */
 ul {
   margin-bottom: 1em;
   list-style: disc inside none;
 }
 
-/* line 132, ../_scss/site.scss */
+/* line 133, ../_scss/site.scss */
 li {
   margin-bottom: 0.2em;
 }
 
-/* line 135, ../_scss/site.scss */
+/* line 136, ../_scss/site.scss */
 table {
   margin-bottom: 1em;
 }
 
-/* line 138, ../_scss/site.scss */
+/* line 139, ../_scss/site.scss */
 td {
   padding-right: 2em;
 }

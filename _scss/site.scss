@@ -33,6 +33,7 @@ $footer-height: 140px;
   display: block;
 }
 .footer, .page-wrap:after {
+  margin-top: 1em;
   height: $footer-height;
 }
 
