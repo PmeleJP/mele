@@ -123,21 +123,23 @@ __Language skills__
 
 ## research experience
 
-I have 17 years of research experience: 7 in Italy (including the 3 years of doctoral course studies) and 10 in Japan
+17 years of research experience: 7 in Italy (including the 3 years of doctoral course studies) and 10 in Japan
 
 **Peer-reviewed activity**
 
 | | |
 | --- | --- |
-| Number of papers published | 69 |
-| Patents | 1 |
+| Number of papers published | 78 (including 2 reviews) |
+| Book chapters | 2 |
+| Patents | 2 |
 
 **Conference presentations**
 
 | | |
 | --- | --- |
-| Total papers (posters+talks) presented | 150 |
-| Talks | 35 |
-| Invited talks | 7 |
-| Conferences attended | 85 |
+| Total papers (posters+talks) presented | 181 |
+| Talks | 47 |
+| Invited talks | 13 |
+| Plenary keynote | 1 |
+| Conferences attended | 98 |
 
