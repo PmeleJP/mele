@@ -144,6 +144,20 @@ td {
   padding-right: 2em;
 }
 
+table.index-images {
+  //margin: 1em auto;
+  margin: 1em 0;
+  margin-top: 2em;
+  td {
+  }
+  img {
+    height: 300px;
+  }
+  .caption {
+    font-size: 60%;
+  }
+}
+
 .page-resume { // resume.md
 
   #personal_data + table {
