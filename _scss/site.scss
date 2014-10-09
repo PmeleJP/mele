@@ -1,6 +1,7 @@
 
 @import "compass/reset";
 @import "compass/css3";
+@import "compass/css3/border-radius";
 
 $FontAwesomePath: "/fonts" !default;
 //
@@ -164,6 +165,21 @@ table.index-images {
     //td:first-child {
     //  font-weight: bold;
     //}
+  }
+}
+
+div.hot-news {
+  position: relative;
+  left: -7px;
+  margin-top: 2em;
+  @include border-radius(7px);
+  padding: 4px;
+  //background-color: lightblue;
+  border: 2px solid lightblue;
+  h1 {
+    padding: 0;
+    margin: 7px 0;
+    margin-bottom: 1em;
   }
 }
 
