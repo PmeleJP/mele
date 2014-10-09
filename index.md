@@ -35,3 +35,7 @@ This is Paolo Mele's laboratory's website.
 
 We are studying advanced materials for energy transport and conversion, thermoelectrics and superconductors.
 
+# hot news
+
+I will present recent works on superconducting thin films at [ISS2014](http://www.istec.or.jp/ISS2014/ISS2014.html) and [CCA2014](http://www.cca2014.org/) in November.
+
