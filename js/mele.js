@@ -1,6 +1,7 @@
 
 function index_init() {
   var $hn = $('#hot_news');
+  if ($hn.empty()) return;
   $hn.before('<div class="hot-news"></div>');
   var $hnd = $('.hot-news');
   $hnd.append($hn);
