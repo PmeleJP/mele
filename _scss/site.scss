@@ -56,6 +56,10 @@ $footer-height: 140px;
   font-weight: bold;
   color: white;
   opacity: 0.9;
+  a {
+    color: white;
+    text-decoration: none;
+  }
 }
 .subtitle-uni {
   margin-top: 3px;
