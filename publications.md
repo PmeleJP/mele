@@ -14,6 +14,26 @@ Up to date, I have published 78 papers in international peer-reviewed journals a
 
 (according to Google Scholar. Last consultation: September 10, 2014)
 
+[2014](#2014) |
+[2013](#2013) |
+[2012](#2012) |
+[2011](#2011) |
+[2010](#2010) |
+[2009](#2009) |
+[2008](#2008) |
+[2007](#2007) |
+[2006](#2006) |
+[2005](#2005) |
+[2004](#2004) |
+[2003](#2003) |
+[2002](#2002) |
+[2001](#2001) |
+[2000](#2000) |
+[1999](#1999) |
+[other](#other_not_referred__2004) |
+[book chapters](#book_chapters) |
+[patents](#patents)
+
 
 ## 2014
 
