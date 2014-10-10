@@ -2545,13 +2545,16 @@ table.index-images {
 /* line 154, ../_scss/site.scss */
 table.index-images img {
   height: 300px;
+  -webkit-border-radius: 7px;
+  -moz-border-radius: 7px;
+  border-radius: 7px;
 }
-/* line 157, ../_scss/site.scss */
+/* line 158, ../_scss/site.scss */
 table.index-images .caption {
   font-size: 60%;
 }
 
-/* line 171, ../_scss/site.scss */
+/* line 172, ../_scss/site.scss */
 div.hot-news {
   position: relative;
   left: -7px;
@@ -2562,7 +2565,7 @@ div.hot-news {
   padding: 4px;
   border: 2px solid lightblue;
 }
-/* line 179, ../_scss/site.scss */
+/* line 180, ../_scss/site.scss */
 div.hot-news h1 {
   padding: 0;
   margin: 7px 0;

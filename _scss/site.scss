@@ -153,6 +153,7 @@ table.index-images {
   }
   img {
     height: 300px;
+    @include border-radius(7px);
   }
   .caption {
     font-size: 60%;
