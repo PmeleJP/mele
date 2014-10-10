@@ -1,14 +1,14 @@
 
 function index_init() {
   var $hn = $('#hot_news');
-  if ($hn.empty()) return;
+  if ($hn.length === 0) return;
   $hn.before('<div class="hot-news"></div>');
   var $hnd = $('.hot-news');
   $hnd.append($hn);
   while (true)
   {
     var $n = $hnd.next();
-    console.log($n[0].tagName);
+    if ($n.length === 0) break;
     if ($n[0].tagName !== 'P') break;
     $hnd.append($n);
   }

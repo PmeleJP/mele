@@ -2570,7 +2570,7 @@ div.hot-news {
   -moz-border-radius: 7px;
   border-radius: 7px;
   padding: 4px;
-  border: 2px solid lightblue;
+  border: 2px solid red;
 }
 /* line 186, ../_scss/site.scss */
 div.hot-news h1 {
