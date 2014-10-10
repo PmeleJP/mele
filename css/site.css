@@ -2481,16 +2481,23 @@ body {
 .footer {
   background-color: lightgrey;
 }
-
-/* line 107, ../_scss/site.scss */
-.footer-content {
+/* line 106, ../_scss/site.scss */
+.footer .footer-content {
   padding-top: 1em;
   width: 90%;
   margin: auto;
   font-size: 77%;
 }
+/* line 111, ../_scss/site.scss */
+.footer .footer-content .tracking {
+  float: right;
+}
+/* line 113, ../_scss/site.scss */
+.footer .footer-content .tracking img {
+  opacity: 0.4;
+}
 
-/* line 114, ../_scss/site.scss */
+/* line 120, ../_scss/site.scss */
 h1 {
   font-size: 200%;
   font-weight: bold;
@@ -2498,7 +2505,7 @@ h1 {
   margin-bottom: 1em;
 }
 
-/* line 120, ../_scss/site.scss */
+/* line 126, ../_scss/site.scss */
 h2 {
   font-size: 150%;
   font-weight: bold;
@@ -2506,55 +2513,55 @@ h2 {
   margin-bottom: 1em;
 }
 
-/* line 127, ../_scss/site.scss */
+/* line 133, ../_scss/site.scss */
 strong {
   font-weight: bold;
 }
 
-/* line 131, ../_scss/site.scss */
+/* line 137, ../_scss/site.scss */
 p {
   margin-bottom: 1em;
 }
 
-/* line 134, ../_scss/site.scss */
+/* line 140, ../_scss/site.scss */
 ul {
   margin-bottom: 1em;
   list-style: disc inside none;
 }
 
-/* line 138, ../_scss/site.scss */
+/* line 144, ../_scss/site.scss */
 li {
   margin-bottom: 0.2em;
 }
 
-/* line 141, ../_scss/site.scss */
+/* line 147, ../_scss/site.scss */
 table {
   margin-bottom: 1em;
 }
 
-/* line 144, ../_scss/site.scss */
+/* line 150, ../_scss/site.scss */
 td {
   padding-right: 2em;
 }
 
-/* line 148, ../_scss/site.scss */
+/* line 154, ../_scss/site.scss */
 table.index-images {
   margin: 1em 0;
   margin-top: 2em;
 }
-/* line 154, ../_scss/site.scss */
+/* line 160, ../_scss/site.scss */
 table.index-images img {
   height: 300px;
   -webkit-border-radius: 7px;
   -moz-border-radius: 7px;
   border-radius: 7px;
 }
-/* line 158, ../_scss/site.scss */
+/* line 164, ../_scss/site.scss */
 table.index-images .caption {
   font-size: 60%;
 }
 
-/* line 172, ../_scss/site.scss */
+/* line 178, ../_scss/site.scss */
 div.hot-news {
   position: relative;
   left: -7px;
@@ -2565,7 +2572,7 @@ div.hot-news {
   padding: 4px;
   border: 2px solid lightblue;
 }
-/* line 180, ../_scss/site.scss */
+/* line 186, ../_scss/site.scss */
 div.hot-news h1 {
   padding: 0;
   margin: 7px 0;

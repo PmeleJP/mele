@@ -103,12 +103,18 @@ $footer-height: 140px;
 }
 .footer {
   background-color: lightgrey;
-}
-.footer-content {
-  padding-top: 1em;
-  width: 90%;
-  margin: auto;
-  font-size: 77%;
+  .footer-content {
+    padding-top: 1em;
+    width: 90%;
+    margin: auto;
+    font-size: 77%;
+    .tracking {
+      float: right;
+      img {
+        opacity: 0.4;
+      }
+    }
+  }
 }
 
 h1 {
