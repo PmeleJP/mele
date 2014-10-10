@@ -108,6 +108,11 @@ $footer-height: 140px;
     width: 90%;
     margin: auto;
     font-size: 77%;
+    div {
+      display: inline-block;
+    }
+    .copyright {
+    }
     .tracking {
       float: right;
       img {
