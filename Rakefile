@@ -82,6 +82,7 @@ end
 # upload to http://mele.lambda.io
 task :u => :build do
 
-  sh('time rsync -azvhe ssh _site/* lin:www/mele/')
+  #sh('time rsync -azvhe ssh _site/* lin:www/mele/')
+  sh('time rsync -azvhe ssh _site/* pmele@login.hiroshima-u.ac.jp:public_html/')
 end
 
