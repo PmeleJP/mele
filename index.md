@@ -7,12 +7,12 @@ title: home
 <table class="index-images">
   <tr class="images">
     <td>
-      <img src="/images/thel_module.jpg" />
+      <img src="images/thel_module.jpg" />
     </td>
     <td>
       <a
         href="https://www.flickr.com/photos/tprentice/9267447818/"
-      ><img src="/images/super_trevor.jpg" /></a>
+      ><img src="images/super_trevor.jpg" /></a>
     </td>
   </tr>
   <tr class="captions">
